@@ -3,7 +3,8 @@ Magasin_SiteWeb
 Gestion d’un panier d’achats Site Web utilisant PHP, MySQL, HTML, CSS et JavaScript. 
 
 Projet scolaire, équipe de 2 personnes, durée approx 20 jours à temps partiel.
-https://github.com/nMigneault
+https://github.com/nMigneault .
+
 Une version démo est disponible http://hypermedia.ericmarquis.ca/
 
 Spécifications
